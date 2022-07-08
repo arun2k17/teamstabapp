@@ -3,8 +3,8 @@
     "version": "0.3.1",
     "description": "Sample teams tab app",
     "repository": "https://github.com/arun2k17/teamstabapp",
-    "license": "Arun",
-    "author": "Arun",
+    "license": "MIT",
+    "author": "dev",
     "scripts": {
         "clean": "npx shx rm -rf dist",
         "build": "webpack --env prod --env clean",
